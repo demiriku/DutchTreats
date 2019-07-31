@@ -1,0 +1,15 @@
+{
+  "Colors": {
+    "Favourite": "blue"
+  },
+  "ConnectionStrings": {
+    "DutchConnectionString": "Data Source=DELLXPS15\\XPS15SQLSERVER;Initial Catalog=DutchTreatsDb;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  }
+
+}
